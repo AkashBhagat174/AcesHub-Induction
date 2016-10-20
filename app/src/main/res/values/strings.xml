@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AcesHub Induction</string>
+    <string-array name="songlist_Number">
+        <item>Ibiza Pill</item>
+        <item>Emporers New Clothes</item>
+        <item>Bleed It Out</item>
+
+    </string-array>
+</resources>
